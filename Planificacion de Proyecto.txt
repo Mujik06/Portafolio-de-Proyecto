@@ -20,6 +20,8 @@ Marzo / Abril:
 -	Analizar y evaluar las diferencias y similitudes entre las vectorizaciones de código obtenidas.
 
 Mayo:
+-	Asignar Calificaciones a Estudiantes
+-	Separar Grupos de Estudiantes según su Rendimiento
 -	Diseñar modelo predictivo que utilice las vectorizaciones de código.
 -	Explorar algoritmos de aprendizaje automático para construcción del predictor.
 -	Entrenar y validar predictor utilizando el conjunto de datos construido.
@@ -30,19 +32,19 @@ Junio:
 -	Interpretar resultados del predictor para comprender cómo las características del código influyen en el rendimiento estudiantil.
 -	Identificar patrones y tendencias significativas que puedan guiar futuras investigaciones o intervenciones educativas.
 
+
 Recursos para el Proyecto:
+
 Lenguajes de programación: Python
-Bibliotecas: SKLearn, TensorFlow, PyTorch
+Bibliotecas: pandas, SKLearn, TensorFlow, PyTorch, transformers
 Modelos Pre-Entrenados: CodeBERTa (por ahora)
-Plataformas de Desarrollo *?
-Herramientas de Gestión *?
+
 
 Notas:
--	¿Establecer Cronograma?
--	Documentar descripciones de avance (README o archivos de texto)
--	Actualizar repositorio al completar tareas y/o obteniendo resultados
--	Comunicar resultados
--	Actualizar Planificación a medida que se necesite durante el desarrollo
+-	Carta Gantt Actualizada
+-	* Documentar descripciones de avance (README o archivos de texto)
+-	Repositorio Actualizado
+-	Planificación Actualizada tras Agregar nuevas tareas
 
 
 
